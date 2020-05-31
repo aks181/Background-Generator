@@ -2,7 +2,7 @@
   "name": "background-generator",
   "version": "1.0.0",
   "description": "CSS Gradient Background-Generator",
-  "main": "bggen.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
